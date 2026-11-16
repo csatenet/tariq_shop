@@ -1,0 +1,4 @@
+name = "tariq-shop-backend"
+main = "main.js"
+compatibility_date = "2026-11-16"
+compatibility_flags = ["nodejs_compat"]
